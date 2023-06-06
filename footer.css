@@ -1,0 +1,15 @@
+footer{
+background-color: rgb(16, 227, 227);
+text-align: center;
+
+}
+.text-center{
+text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    list-style: none;
+}

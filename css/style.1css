@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  margin: auto;
+  max-width: 1280px;
+}
+
+.bg1 {
+  background-color: aqua;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
